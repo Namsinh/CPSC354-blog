@@ -14,3 +14,20 @@ Consider the schemas of rules:
   b ->
 
 ```
+Here we reduce example strings abba and bababa by applying above rules:
+
+```
+abba->baba
+    ->bbaa
+    ->bb
+    ->b
+    ->bababa
+    ->babaab
+    ->babb
+    ->abbb
+    ->abb
+    ->ab
+    ->a
+
+```
+
