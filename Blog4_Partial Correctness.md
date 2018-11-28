@@ -30,10 +30,11 @@ This program computes the multiple of variable y by variable i.  The preconditio
 3.  Discuss the partial correctness from the point of the loop. (Javascript)
 
 ```
-while (i < 5) {										
-		k = i+j;										
-		i++;		
-    }
+while (i < 5) 
+{										
+	k = i+j;										
+	i++;		
+}
 
 ```
-
+The program computes k by summing the values of variable j and variable i.  The preconditions are the initialization variables i, j, and k.  The postconditions after the execution of the loop is j=initialization value, i=4, and the value of variable k can be returned at the termination of the loop with a print statement.  The loop invariant is variable j because its value holds at the precondition and postcondition at every iteration of the loop.
