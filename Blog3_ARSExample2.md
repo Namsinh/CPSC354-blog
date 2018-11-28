@@ -39,5 +39,10 @@ ba->bbaa
 -> abbaababbaba
 ```
 
-
+- We see that we are unable to rewrite ba->abbaababbab because the system is not terminating.
+- There are four equivalence classes:
+	1. (b-a) mod 2 = 0 where b≥1 (both a,b odd or even).
+	2. Words that have even number of a’s only.
+	3. (b-a) mod 2 = 1 where b≥1 (a or b is odd only).
+	4. Words that have an odd number of a’s only.
 													
