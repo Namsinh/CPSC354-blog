@@ -1,6 +1,6 @@
 Project: A simple online calculator in Javascript
 
-**Timeline:**
+# **Timeline:**
 1. Prototype
     - Blog about functional programming in Javascript
     - Create first hello world program
