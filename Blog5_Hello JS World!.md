@@ -16,5 +16,6 @@ Project: A simple online version of the iPhone calculator in Javascript.
     - Add more style and color
     - Final blog about results
     - Documentation for running program
+    - Slides for mini presentation
     
     
