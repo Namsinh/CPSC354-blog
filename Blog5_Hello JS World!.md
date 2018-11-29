@@ -1,4 +1,4 @@
-Project: A simple online calculator in Javascript
+Project: A simple online version of the iPhone calculator in Javascript.
 
 # **Timeline:**
 1. Prototype
@@ -8,6 +8,6 @@ Project: A simple online calculator in Javascript
     - Learn how to deploy html scripts and CSS layouts
   
 2. Implementation
-    - Create simple GUI
-    - Implement calculator operations
+    - Create simple GUI 
+    - Implement calculator button operations
     - Test program
