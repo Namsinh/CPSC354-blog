@@ -1,5 +1,5 @@
 # Abstract Reduction Systems Exercises
-# Exercise: String Rewriting
+# Exercise: String Rewriting Part 2
 
 Example 2: 
 - Consider the schema of rules:
