@@ -34,7 +34,6 @@ Above, `x` is a variable that may be replaced by any string.
   or 
   
   OR → ORK
-  
   ```
   It is not possible to reduce `OR` to `OK` with the given system.
   Rules 3 is the only rule that reduces words containing `R` to contain `K`.
