@@ -1,5 +1,5 @@
 # Abstract Reduction Systems Exercises
-# Exercise: String Rewriting Part 1
+## Exercise: String Rewriting Part 1
 
 Example 1:
 
