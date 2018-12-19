@@ -31,6 +31,7 @@ Above, `x` is a variable that may be replaced by any string.
   ```
   OR → ORR
      → O 
+     
   or 
   
   OR → ORK
