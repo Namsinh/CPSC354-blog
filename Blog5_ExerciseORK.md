@@ -25,7 +25,7 @@ Above, `x` is a variable that may be replaced by any string.
   OK → OKK
      → O 
   ```
-  It is not possible to reduce `OK` to `OR` with the given system.
+  * It is not possible to reduce `OK` to `OR` with the given system.
 
 * Is it possible to reduce `OR` to `OK`?
   ```
@@ -35,7 +35,7 @@ Above, `x` is a variable that may be replaced by any string.
   
   OR → ORK
   ```
-  It is not possible to reduce `OR` to `OK` with the given system.
+  * It is not possible to reduce `OR` to `OK` with the given system.
   Rules 3 is the only rule that reduces words containing `R` to contain `K`.
   If we modifed rule to 3 to be `Ox → Oxxx` we would be able to reduce `OR` to `OK`
   by `OR → ORRR → OK` and the system would be terminating.
