@@ -19,7 +19,7 @@ while (i < N)
 ϕ(j,i)=N−i
 ```
 
-* To show this is a *measure funcion* we establish that:
+* To show this is a **measure function** we establish that:
 	* each time we execute the body of the loop, the value N - i decreases and
 	* the value N - i can never be negative ensured by the condition that i < N guarding the entry of the loop.
 	
