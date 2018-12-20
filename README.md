@@ -1,5 +1,5 @@
 # CPSC354-blog
-## Blogs to learn concepts of programming languages 
+* Blogs to learn concepts of programming languages 
 
 Project Links:
 * [Project Timeline](https://github.com/Namsinh/CPSC354-blog/Project_Timeline.md)
