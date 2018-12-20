@@ -10,7 +10,7 @@
 git clone https://github.com/Namsinh/CPSC354-blog.git
 ```
 
-* Change to the directory where you cloned the repository by entering this commnand:
+* Change to the directory where you cloned the repository by entering this command:
 
 ```
 cd CPSC354-blog
