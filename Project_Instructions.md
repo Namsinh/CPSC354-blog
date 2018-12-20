@@ -1,6 +1,6 @@
 # About the Program and How To Run It
 
-## How to Run the Program
+## How to Run:
 
 * Open a terminal/console/command prompt.
 
