@@ -5,7 +5,7 @@
 Write a program in your programming language that contains a while loop
 and show termination by exhibiting a measure function.
 
-* In the following, a is an array of integers.
+* In the following, `a` is an array of integers.
 
 ```
 while (i < N) 
@@ -15,7 +15,7 @@ while (i < N)
   }
 ``` 
 
-* The states of the sytem can be defined as consisting of tuples (j, i)
+* The states of the sytem can be defined as consisting of tuples `(j, i)`
 as they are the data that changes during the execution of the loop.  
 * We define a function:
 
