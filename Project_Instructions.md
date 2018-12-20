@@ -19,5 +19,5 @@ cd CPSC354-blog
 * Enter this command to open the program in the internet browser of your choice: 
 
 ```
-open -a “*Internet Browser*” simple_calc.html
+open -a *“Internet Browser”* simple_calc.html
 ```
