@@ -6,10 +6,11 @@ Suggest a rule to add in Hoare Logic for the statement:
          repeat S until B
 ```
 
-The repeat statement first executes the statement S 
+* The repeat statement first executes the statement S 
 and then checks for the condition B.
 
-* Hoare's rule for a loop can be written in symbolic 
+
+Hoare's rule for a loop can be written in symbolic 
 notation as follows:
 
 ```
