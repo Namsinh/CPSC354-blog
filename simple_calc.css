@@ -20,16 +20,40 @@ input::-webkit-inner-spin-button {
 
 body {background-color: #FFF;}
 
-#addbtn {background-color: #;
-    border: none;
+#addbtn {
+    background-color: #32CD32;
     color: white;
-    padding: 12px;
+    padding: 8px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
-    font-size: 20px;
-    margin: 4px 2px;} /* Green */
-#subtractbtn {background-color: #008CBA; color: white; padding: 8px; border-radius: 8px;} /* Blue */
-#multiplybtn {background-color: #f44336; color: white; padding: 8px; border-radius: 8px;} /* Red */ 
-#dividebtn {background-color: #FFA500; color: white; padding: 8px; border-radius: 8px;} /* Gray */ 
+    font-size: 16px;
+    border-radius: 50%;} /* Green */
+
+#subtractbtn {
+	background-color: #008CBA; 
+	color: white; 
+	padding: 8px;
+	display: inline-block;
+	text-align: center;
+	font-size: 16px; 
+	border-radius: 50%;} /* Blue */
+
+#multiplybtn {
+	background-color: #f44336;
+	color: white; 
+	padding: 8px;
+	text-align: center;
+	display: inline-block;
+	font-size: 16px; 
+	border-radius: 50%;} /* Red */
+ 
+#dividebtn {
+	background-color: #FFA500;
+ 	color: white;
+	padding: 8px;
+	text-align: center;
+	display: inline-block;
+	font-size: 16px; 
+	border-radius: 50%;} /* Gray */ 
 
