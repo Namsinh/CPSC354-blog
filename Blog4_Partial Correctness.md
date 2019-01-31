@@ -1,7 +1,7 @@
 # Partial Correctness of While-Loops
 
 - Some background learned in class:
-A program is called partially correct if, when preconditions hold before the program executes and terminates, postconditions hold after the program has executed. A program is fully correct if we can also prove that it terminates. A loop invariant is a condition that is true at the beginning and end of every iteration of the loop. 
+A program is called partially correct only if preconditions hold before the program executes and terminates, and postconditions hold after the program has executed. A program is fully correct if we can also prove that it terminates. A loop invariant is a condition that is true at the beginning and end of every iteration of the loop. 
 
 1. What do the following two programs compute? What pre and postconditions can be used to formalize this? Find a loop invariant and use it to prove the partial correctness of this program.
 
